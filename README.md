@@ -2,7 +2,7 @@
 
 
 
-You need to enable the following services
+You will need to enable the following services
 *MAPS SDK API
 *DIRECTION API  (For Routing and polylines)
 *BILLING (The routing... and polylines will only work if the Billing is enable)
